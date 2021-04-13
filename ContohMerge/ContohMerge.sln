@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContohMerge", "ContohMerge\ContohMerge.csproj", "{C7832C00-D93C-46EF-8765-B91DA69196DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7832C00-D93C-46EF-8765-B91DA69196DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7832C00-D93C-46EF-8765-B91DA69196DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7832C00-D93C-46EF-8765-B91DA69196DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7832C00-D93C-46EF-8765-B91DA69196DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8675DCF-6A18-44D0-9E88-73DA0FDC1ED4}
+	EndGlobalSection
+EndGlobal
